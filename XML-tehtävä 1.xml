@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+<Asiakkaat>
+    <asiaks1>
+        <Etunimi>Osku</Etunimi>
+        <Sukunimi>Sirpoma</Sukunimi>
+        <kotiosoite>Manttaalitie 5</kotiosoite>
+        <postinumero>00680</postinumero>
+        <postiosoite>Helsinki</postiosoite>
+        <puhelinnumero>050123456</puhelinnumero>
+    </asiaks1>
+    <asiakas2>
+        <Etunimi>Oskar</Etunimi>
+        <Sukunimi>Chiddick</Sukunimi>
+        <kotiosoite>Unioninkatu 45</kotiosoite>
+        <postinumero>00170</postinumero>
+        <postiosoite>Helsinki</postiosoite>
+        <puhelinnumero>0401234567</puhelinnumero>
+    </asiakas2>
+</Asiakkaat>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<Tuotteet>
+    <Tilaus1>
+        <Asiakkaan_tiedot myyjä="Osku Sirpoma">
+            <Etunimi>Osku</Etunimi>
+            <Sukunimi>Sirpoma</Sukunimi>
+            <kotiosoite>Manttaalitie 5</kotiosoite>
+            <postinumero>00680</postinumero>
+            <postiosoite>Helsinki</postiosoite>
+            <puhelinnumero>050123456</puhelinnumero>
+        </Asiakkaan_tiedot>
+
+        <Tilaus_tiedot tilauspäivä="12.6.2017">
+            <Tuotteen_nimi>Fake Dildo</Tuotteen_nimi>
+            <Tuote_numero>6969696969</Tuote_numero>
+            <a-hinta>69.69€</a-hinta>
+            <määrä>10</määrä>
+        </Tilaus_tiedot>
+
+        <toimitus toimitusosoite="Laskutusosoite: Toimitusosoitetta ei tarvitse.">
+            <Toimituspäivä>6.9.2069</Toimituspäivä>
+            <Toimitusosoite>Unioninkatu 45</Toimitusosoite>
+        </toimitus>
+    </Tilaus1>
+    
+    <Tilaus2>
+        <Asiakkaan_tiedot myyjä="Oskar Chiddick">
+            <Etunimi>Oskar</Etunimi>
+            <Sukunimi>Chiddick</Sukunimi>
+            <kotiosoite>Unionintie 45</kotiosoite>
+            <postinumero>00170</postinumero>
+            <postiosoite>Helsinki</postiosoite>
+            <puhelinnumero>0401234567</puhelinnumero>
+        </Asiakkaan_tiedot>
+
+        <Tilaus_tiedot tilauspäivä="12.6.2017">
+            <Tuotteen_nimi>Fake Dildo</Tuotteen_nimi>
+            <Tuote_numero>6969696969</Tuote_numero>
+            <a-hinta>69.69€</a-hinta>
+            <määrä>15</määrä>
+        </Tilaus_tiedot>
+
+        <toimitus toimitusosoite="Laskutusosoite: Toimitusosoitetta ei tarvitse.">
+            <Toimituspäivä>6.9.2069</Toimituspäivä>
+        </toimitus>
+    </Tilaus2>
+</Tuotteet>
