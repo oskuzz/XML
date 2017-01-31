@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
-
-
-Ja nyt tehdään XML tehtävät loppuun
+<lasku>
+    <maksun_saaja>
+        <IBAN></IBAN>
+    </maksun_saaja>
+    
+    <maksaja>
+        <nimi>Markku Sihvola</nimi>
+        <osoite>Kalevankatu 6</osoite>
+        <viesti>Erik on peruna ja me kaikki ollaan vitun pilves.</viesti>
+    </maksaja>
+</lasku>
