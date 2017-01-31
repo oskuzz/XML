@@ -6,20 +6,20 @@ and open the template in the editor.
 -->
 <Tuotteet>
     <Tilaus1>
-        <Asiakkaan_tiedot myyjä="Osku Sirpoma">
-            <Etunimi>Osku</Etunimi>
-            <Sukunimi>Sirpoma</Sukunimi>
-            <kotiosoite>Manttaalitie 5</kotiosoite>
-            <postinumero>00680</postinumero>
+        <Asiakkaan_tiedot myyjä="Omar Shum">
+            <Etunimi>Omar</Etunimi>
+            <Sukunimi>Shum</Sukunimi>
+            <kotiosoite>Madetojankuja 5</kotiosoite>
+            <postinumero>00720</postinumero>
             <postiosoite>Helsinki</postiosoite>
-            <puhelinnumero>050123456</puhelinnumero>
+            <puhelinnumero>0456554411</puhelinnumero>
         </Asiakkaan_tiedot>
 
         <Tilaus_tiedot tilauspäivä="12.6.2017">
-            <Tuotteen_nimi>Fake Dildo</Tuotteen_nimi>
+            <Tuotteen_nimi>Sneaker</Tuotteen_nimi>
             <Tuote_numero>6969696969</Tuote_numero>
-            <a-hinta>69.69€</a-hinta>
-            <määrä>10</määrä>
+            <a-hinta>69.99€</a-hinta>
+            <määrä>1</määrä>
         </Tilaus_tiedot>
 
         <toimitus toimitusosoite="Laskutusosoite: Toimitusosoitetta ei tarvitse.">
@@ -39,10 +39,10 @@ and open the template in the editor.
         </Asiakkaan_tiedot>
 
         <Tilaus_tiedot tilauspäivä="12.6.2017">
-            <Tuotteen_nimi>Fake Dildo</Tuotteen_nimi>
+            <Tuotteen_nimi>Sneaker</Tuotteen_nimi>
             <Tuote_numero>6969696969</Tuote_numero>
-            <a-hinta>69.69€</a-hinta>
-            <määrä>15</määrä>
+            <a-hinta>69.99€</a-hinta>
+            <määrä>2</määrä>
         </Tilaus_tiedot>
 
         <toimitus toimitusosoite="Laskutusosoite: Toimitusosoitetta ei tarvitse.">

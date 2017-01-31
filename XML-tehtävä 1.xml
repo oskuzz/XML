@@ -9,16 +9,16 @@ and open the template in the editor.
 
 <Asiakkaat>
     <asiaks1>
-        <Etunimi>Osku</Etunimi>
-        <Sukunimi>Sirpoma</Sukunimi>
-        <kotiosoite>Manttaalitie 5</kotiosoite>
-        <postinumero>00680</postinumero>
+        <Etunimi>Omar</Etunimi>
+        <Sukunimi>Shum</Sukunimi>
+        <kotiosoite>Madetojankuja 5</kotiosoite>
+        <postinumero>00720</postinumero>
         <postiosoite>Helsinki</postiosoite>
-        <puhelinnumero>050123456</puhelinnumero>
+        <puhelinnumero>0456115544</puhelinnumero>
     </asiaks1>
     <asiakas2>
-        <Etunimi>Oskar</Etunimi>
-        <Sukunimi>Chiddick</Sukunimi>
+        <Etunimi>Osku</Etunimi>
+        <Sukunimi>Sirpomaa</Sukunimi>
         <kotiosoite>Unioninkatu 45</kotiosoite>
         <postinumero>00170</postinumero>
         <postiosoite>Helsinki</postiosoite>
